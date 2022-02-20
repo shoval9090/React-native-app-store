@@ -1,15 +1,21 @@
 # React-native-app-store
 
 
-ReadMe
 Nike Shoes store App
+
 Final project in React-native course.
+
 This Application offers both online shop and service for all Nike shoes category.
 Develop by me and my friends as a final project 
+
 All rights reserved – Ohad Cohen, David Shoshan and Shoval Soli.
 
-Visibility on app screens  
-Home Screen 
+Visibility on app screens here :   
+
+<img width="193" alt="home1" src="https://user-images.githubusercontent.com/93192285/154842221-bcc08e38-e9cd-4d5c-887f-1ae672eae1f1.png">
+<img width="190" alt="home2" src="https://user-images.githubusercontent.com/93192285/154842289-bc855482-7e83-4810-8116-bbaeb9b84fa8.png">
+
+# Home Screen 
 On this page we can see all the optional shoes for online order. 
 There is any kind of Nike shoes.
 * In any category of shoe, you will navigate to the specific category by clicking
@@ -17,7 +23,11 @@ There is any kind of Nike shoes.
 * There is cart icon in the header of the app, by click on it you will navigate to the shopping cart in our app.
 * On the left side in the header we have a bucket icon to delete the product that you don’t want any more  
 
-Category Screen 
+
+
+<img width="203" alt="catgoryPage1" src="https://user-images.githubusercontent.com/93192285/154842501-7c9b0488-d15f-4d10-bd71-c8bf23bac7e9.png">
+
+# Category Screen 
 In Category page we have
 All products that are accessible for purchase. 
 There is a cart icon in the header that navigate us to the shopping cart screen. 
