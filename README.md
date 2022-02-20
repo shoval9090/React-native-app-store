@@ -23,6 +23,9 @@ All products that are accessible for purchase.
 There is a cart icon in the header that navigate us to the shopping cart screen. 
 We can see also if there is any special sale's during the week,
 Or any new sales for the future.
+
+<img width="184" alt="product1" src="https://user-images.githubusercontent.com/93192285/154842161-dedaf256-02a9-433b-8597-13ac92526567.png">
+
  
 Product Details Screen 
 •	We can see if the product is readily available or not
